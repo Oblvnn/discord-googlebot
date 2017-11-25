@@ -1,5 +1,5 @@
 const talkedRecently = new Set();
-const config = require("../config.json");
+const config = require(`../config.json`);
 exports.run = (client, message) => {
 	if (message.author.bot) return;
 	if (message.channel.type === 'dm') return;
