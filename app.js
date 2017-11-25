@@ -12,4 +12,4 @@ fs.readdir("./events/", (err, files) => {
   });
 });
 
-client.login(config.token); // Discord bot made by OblivionSan - https://oblivionsan.tk
+client.login(config.token); // Discord Google bot made by OblivionSan - https://oblivionsan.tk
