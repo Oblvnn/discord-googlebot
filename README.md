@@ -1,8 +1,8 @@
 # Google based discord-bot.
-[![GitHub License](https://img.shields.io/github/license/OblivionSan/discord-googlebot.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/blob/master/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/OblivionSan/discord-googlebot.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/OblivionSan/discord-googlebot.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/network)
-[![GitHub issues](https://img.shields.io/github/issues/OblivionSan/discord-googlebot.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/issues)
+[![GitHub License](https://img.shields.io/github/license/OblivionSan/discord-googlebot.svg?style=flat-square)](https://github.com/OblivionSan/discord-googlebot/blob/master/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/OblivionSan/discord-googlebot.svg?style=flat-square)](https://github.com/OblivionSan/discord-googlebot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/OblivionSan/discord-googlebot.svg?style=flat-square)](https://github.com/OblivionSan/discord-googlebot/network)
+[![GitHub issues](https://img.shields.io/github/issues/OblivionSan/discord-googlebot.svg?style=flat-square)](https://github.com/OblivionSan/discord-googlebot/issues)
 
 Simple Google bot made with various apis
 > You must have [Node](https://nodejs.org/) installed to run this bot.
